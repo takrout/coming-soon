@@ -195,4 +195,13 @@ nav .title img {
     .content {
         width: 100%;
     }
+
+    .content-text #clock {
+        font-size: 30px;
+        padding-top: 0;
+    }
+
+    .footer {
+        bottom: 10px;
+    }
 }
