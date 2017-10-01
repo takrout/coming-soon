@@ -190,3 +190,9 @@ nav .title img {
     font-weight: 300;
     font-size: 14px;
 }
+
+@media screen and (max-width: 1200px) {
+    .content {
+        width: 100%;
+    }
+}
